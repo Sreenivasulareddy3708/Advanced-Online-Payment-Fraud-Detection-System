@@ -15,6 +15,17 @@ The **Online Payment Fraud Detection** project aims to detect fraudulent transac
 - **Frontend**: HTML (for input form)
 - **Deployment**: Local deployment using Flask (Docker/Kubernetes options for scalable production environments)
 
-## Project Structure
 
-├── app.py # Flask app for serving the model and handling HTTP requests ├── templates │ └── index.html # Frontend HTML form for user inputs ├── Online_payment_fraud_detection_randomforest.pkl # Trained model file (Random Forest) ├── online_payment.ipynb # Jupyter notebook for model training and testing └── .gitignore # Lists files/folders ignored by Git (e.g., temporary files)
+## Getting Started
+
+### Prerequisites
+- Python 3.x
+- Flask
+- Scikit-Learn
+- Pickle
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sreenivasulareddy3708/Advanced-Online-Payment-Fraud-Detection-System.git
+   cd online-payment-fraud-detection
