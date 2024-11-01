@@ -19,7 +19,7 @@ The **Online Payment Fraud Detection** project aims to detect fraudulent transac
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.12
 - Flask
 - Scikit-Learn
 - Pickle
