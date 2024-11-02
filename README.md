@@ -31,4 +31,9 @@ The **Online Payment Fraud Detection** project aims to detect fraudulent transac
    cd online-payment-fraud-detection
 
 
+## Run the Application
+Run `app.py` to start the Flask server:
+
+```bash
+python app.py
 
